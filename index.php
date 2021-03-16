@@ -32,7 +32,7 @@ border: 10px solid #352405;
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                       <li><a class="dropdown-item" href="Dinner.php">DINNER</a></li>
-                      <li><a class="dropdown-item" href="Snack.php">SNACK</a></li>
+                      <li><a class="dropdown-item" href="snack.php">SNACK</a></li>
                       <li><a class="dropdown-item" href="Beer.php">ROASTED CHICKEN</a></li>
                       <li><a class="dropdown-item" href="Ham.php">Ham</a></li>
                     </ul>
